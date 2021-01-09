@@ -45,10 +45,11 @@ elif start.lower()=="y":
                     print("you died")
         else:
             print ("please choose between the options go inside and keep running")
-            #get back to f from here
+            #learn how to get back to f from here
     else:
         print("please choose the options only")
 else:
     print("please come back when you are ready")
             
     
+#1.9.21 update/authors note: this was done so long ago please excuse some of the comments lol
