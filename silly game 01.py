@@ -1,7 +1,7 @@
 print("welcome to this game I made^^")
 print("Here are the rules")
 a=input("1. please be respectful to the game\n 2. please only use the options provided \n3. please contact the op if you have any questions of concerns \nThis is a Y/N type game so vibe with that\n ~Press enter to continue")
-       #tfw you are op and you're not making this to really show anyone *drops mic like a boss*
+
 start=input("Are you ready to start? Y/N ")
 if start.lower()== "n":
     print("gg bro, come back later")
