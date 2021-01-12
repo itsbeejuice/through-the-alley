@@ -18,7 +18,7 @@ elif start.lower()=="y":
     if e.lower()== "look behind you?":
         print('Why would you do that? Do you lack common sense?')
         print('You have died')
-        print("they f*****g killed you")
+        print("they f*****g killed you") #i censcored this, it is originally said the whole word-
     elif e.lower()=="run away":
         print ("you run away and pass an open building but nowhere else to run")
         print ("what do you want to do?")
